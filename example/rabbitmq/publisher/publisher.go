@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/cheebo/go-config/types"
-	"github.com/cheebo/pubsub/example/rabbitmq/message"
-	"github.com/cheebo/pubsub/rabbitmq"
+	"github.com/dexpa/go-config/types"
+	"github.com/dexpa/pubsub/example/rabbitmq/message"
+	"github.com/dexpa/pubsub/rabbitmq"
 	"encoding/json"
 )
 

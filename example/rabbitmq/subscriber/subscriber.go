@@ -5,9 +5,9 @@ import (
 	"log"
 
 	"encoding/json"
-	"github.com/cheebo/go-config/types"
-	"github.com/cheebo/pubsub/example/rabbitmq/message"
-	"github.com/cheebo/pubsub/rabbitmq"
+	"github.com/dexpa/go-config/types"
+	"github.com/dexpa/pubsub/example/rabbitmq/message"
+	"github.com/dexpa/pubsub/rabbitmq"
 )
 
 var url = flag.String("url", "amqp://guest:guest@localhost/", "amqp url")

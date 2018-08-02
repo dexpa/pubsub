@@ -3,8 +3,8 @@ package rabbitmq
 import (
 	"context"
 	"github.com/assembla/cony"
-	"github.com/cheebo/go-config/types"
-	"github.com/cheebo/pubsub"
+	"github.com/dexpa/go-config/types"
+	"github.com/dexpa/pubsub"
 	"github.com/streadway/amqp"
 	"time"
 )

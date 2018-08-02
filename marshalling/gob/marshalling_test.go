@@ -1,7 +1,7 @@
 package gob_test
 
 import (
-	"github.com/cheebo/pubsub/marshalling/gob"
+	"github.com/dexpa/pubsub/marshalling/gob"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

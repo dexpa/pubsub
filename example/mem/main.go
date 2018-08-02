@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"encoding/json"
-	"github.com/cheebo/pubsub/memory"
+	"github.com/dexpa/pubsub/memory"
 	"log"
 	"time"
 )

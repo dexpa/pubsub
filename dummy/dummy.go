@@ -2,7 +2,7 @@ package dummy
 
 import (
 	"context"
-	"github.com/cheebo/pubsub"
+	"github.com/dexpa/pubsub"
 )
 
 type publisher struct{}

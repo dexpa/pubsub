@@ -2,7 +2,7 @@ package memory
 
 import (
 	"context"
-	"github.com/cheebo/pubsub"
+	"github.com/dexpa/pubsub"
 	"github.com/pkg/errors"
 	"sync"
 )
